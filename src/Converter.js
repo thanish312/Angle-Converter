@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import './App.css';
 
@@ -99,6 +98,7 @@ const Converter = () => {
           </div>
         )}
       </div>
+      <div className="attribution">Made by Thanish</div>
     </div>
   );
 };
